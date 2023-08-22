@@ -1,0 +1,42 @@
+[
+  {
+    "userName": "lhegden0",
+    "email": "danniell0@scientificamerican.com",
+    "password": "abcdef",
+    "role": "staff",
+    "phoneNumber": "+380 237 858 7671",
+    "address": "184 Carioca Way"
+  },
+  {
+    "userName": "dlidgely1",
+    "email": "jmadgett1@oracle.com",
+    "password": "efghij",
+    "role": "staff",
+    "phoneNumber": "+20 935 644 5751",
+    "address": "1 Scofield Crossing"
+  },
+  {
+    "userName": "tbourget2",
+    "email": "ablackborough2@ifeng.com",
+    "password": "jklmno",
+    "role": "staff",
+    "phoneNumber": "+62 729 443 5693",
+    "address": "064 Reindahl Street"
+  },
+  {
+    "userName": "csaw3",
+    "email": "jmccolley3@yolasite.com",
+    "password": "pqrstu",
+    "role": "staff",
+    "phoneNumber": "+57 515 756 8650",
+    "address": "305 Commercial Drive"
+  },
+  {
+    "userName": "gjansky4",
+    "email": "syurenin4@ebay.com",
+    "password": "uvwxyz",
+    "role": "staff",
+    "phoneNumber": "+86 931 461 3295",
+    "address": "0 Fisk Circle"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "The NY times",
+    "content": "Novak Djokovic Captures the French Open and a 23rd Grand Slam Title",
+    "imgUrl": "https://static01.nyt.com/images/2023/06/11/multimedia/11french-men-final-hp-promo2-qpjc/11french-men-final-hp-promo2-qpjc-threeByTwoMediumAt2X.jpg?format=pjpg&quality=75&auto=webp&disable=upscale",
+    "authorId": 1,
+    "categoryId": 1
+  },
+  {
+    "title": "BBB",
+    "content": "Conor McGregor stunt: Mascots being punched 'not the brightest thing' says UFC's Dana White",
+    "imgUrl": "https://ichef.bbci.co.uk/onesport/cps/976/cpsprodpb/164B4/production/_130061319_gettyimages-1497303960.jpg",
+    "authorId": 2,
+    "categoryId": 2
+  },
+  {
+    "title": "The Korea",
+    "content": "Stray Kids scores third No. 1 on Billboard 200",
+    "imgUrl": "https://img.koreatimes.co.kr/upload/newsV2/images/202306/99b7aaa4065f444085cb2779fd7a4222.jpg/dims/resize/740/optimize",
+    "authorId": 3,
+    "categoryId": 3
+  },
+  {
+    "title": "CCN",
+    "content": "BTS 10th anniversary: K-pop sensation’s decade-long style evolution",
+    "imgUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230608130953-03-bts-10th-anniversary-grammys-2022.jpg?c=16x9&q=h_720,w_1280,c_fill/f_webp",
+    "authorId": 4,
+    "categoryId": 3
+  },
+  {
+    "title": "euroNew",
+    "content": "Global nuclear weapons stockpile growing as Russia moves missiles to Belarus",
+    "imgUrl": "https://static.euronews.com/articles/stories/07/66/67/84/773x435_cmsv2_c1e45160-c23a-5def-810f-b7b3076feb57-7666784.jpg",
+    "authorId": 5,
+    "categoryId": 2
+  }
+]

@@ -1,0 +1,18 @@
+const express = require('express')
+const router = express.Router()
+const article = require('./article')
+const category = require('./category')
+const user = require('./user')
+const history = require('./history')
+const customer = require("./customer")
+const { authentication } = require('../middlewares/authentication')
+const dataErrors = require('../middlewares/errorHandler')
+
+router.use("/customers", customer)
+router.use("/users", user)
+router.use(authentication)
+router.use('/articles', article)
+router.use('/categories', category)
+router.use('/histories', history)
+router.use(dataErrors)
+module.exports = router 
